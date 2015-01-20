@@ -5,3 +5,6 @@ A checklist before you ship your baby to AppStore. Helps to checkout incase you 
 Guys you are open to Edit and update as per your requirement. In case you want to update pleasemake a pull request.
 
 Enjoy...
+
+For Apple app release guidelines follow this link:
+https://developer.apple.com/app-store/review/guidelines/
